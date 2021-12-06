@@ -1,0 +1,13 @@
+C:\Users\inval\source\repos\obiektowe\obiektowe\bin\Debug\netcoreapp3.1\obiektowe.exe
+C:\Users\inval\source\repos\obiektowe\obiektowe\bin\Debug\netcoreapp3.1\obiektowe.deps.json
+C:\Users\inval\source\repos\obiektowe\obiektowe\bin\Debug\netcoreapp3.1\obiektowe.runtimeconfig.json
+C:\Users\inval\source\repos\obiektowe\obiektowe\bin\Debug\netcoreapp3.1\obiektowe.runtimeconfig.dev.json
+C:\Users\inval\source\repos\obiektowe\obiektowe\bin\Debug\netcoreapp3.1\obiektowe.dll
+C:\Users\inval\source\repos\obiektowe\obiektowe\bin\Debug\netcoreapp3.1\obiektowe.pdb
+C:\Users\inval\source\repos\obiektowe\obiektowe\obj\Debug\netcoreapp3.1\obiektowe.csprojAssemblyReference.cache
+C:\Users\inval\source\repos\obiektowe\obiektowe\obj\Debug\netcoreapp3.1\obiektowe.AssemblyInfoInputs.cache
+C:\Users\inval\source\repos\obiektowe\obiektowe\obj\Debug\netcoreapp3.1\obiektowe.AssemblyInfo.cs
+C:\Users\inval\source\repos\obiektowe\obiektowe\obj\Debug\netcoreapp3.1\obiektowe.csproj.CoreCompileInputs.cache
+C:\Users\inval\source\repos\obiektowe\obiektowe\obj\Debug\netcoreapp3.1\obiektowe.dll
+C:\Users\inval\source\repos\obiektowe\obiektowe\obj\Debug\netcoreapp3.1\obiektowe.pdb
+C:\Users\inval\source\repos\obiektowe\obiektowe\obj\Debug\netcoreapp3.1\obiektowe.genruntimeconfig.cache
